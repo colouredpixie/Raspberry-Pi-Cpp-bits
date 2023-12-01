@@ -18,5 +18,13 @@
     <ClCompile Include="blink.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="wax\token\tstt.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="wax\token\tstt.hpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
